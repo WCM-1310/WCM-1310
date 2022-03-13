@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Mavis.
+- 🌱 I’m currently learning HTML, CSS, and JavaScript.
+- 📫 How to reach me: mai08500@hotmail.com
